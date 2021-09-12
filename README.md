@@ -1,11 +1,12 @@
-# Getting Started with Create React App
+# Smells Map is an Odor Finder
+
+There are many smells in the world, good and bad. Those smells vary, across the board, from person to culture. This is their story.
+
+# We Got This Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -39,8 +40,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# The backend is present being designed to accomodate multiple olefactory inputs from across the world and accounts and all of that.
